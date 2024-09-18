@@ -1,9 +1,16 @@
 # MasterSign
 
+## Prerequisites:
+```bash
+  Django==3.2.6
+  numpy==1.23.0
+  plotly==5.9.0
+  requests==2.28.1
 
 ## Project Installation:
 **STEP 1:** Clone the repository from GitHub.
 ```bash
+https://github.com/HappyBiningu/MasterSign.git
 
 **STEP 2:** Change the directory to the repository.
 ```bash
