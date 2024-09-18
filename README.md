@@ -8,7 +8,8 @@
   requests==2.28.1
 
 ## Project Installation:
-**STEP 1:** Clone the repository from GitHub.
+
+*STEP 1:* Clone the repository from GitHub.
 ```bash
 https://github.com/HappyBiningu/MasterSign.git
 
